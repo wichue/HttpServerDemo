@@ -1,0 +1,4 @@
+<map id="QtServiceBase" name="QtServiceBase">
+<area shape="rect" id="node1" title="The QtServiceBase class provides an API for implementing Windows services and Unix daemons." alt="" coords="41,5,158,32"/>
+<area shape="rect" id="node2" href="$classQtService.html" title="The QtService is a convenient template class that allows you to create a service for a particular app..." alt="" coords="5,80,193,107"/>
+</map>

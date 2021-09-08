@@ -1,0 +1,10 @@
+<map id="QtServiceBasePrivate" name="QtServiceBasePrivate">
+<area shape="rect" id="node1" title=" " alt="" coords="156,275,319,301"/>
+<area shape="rect" id="node2" href="$classQtServiceController.html" title="The QtServiceController class allows you to control services from separate applications." alt="" coords="5,171,155,197"/>
+<area shape="rect" id="node3" href="$classQtServiceBase.html" title="The QtServiceBase class provides an API for implementing Windows services and Unix daemons." alt="" coords="179,171,296,197"/>
+<area shape="rect" id="node4" href="$classQtServiceSysPrivate.html" title=" " alt="" coords="320,171,475,197"/>
+<area shape="rect" id="node5" href="$classQtUnixServerSocket.html" title=" " alt="" coords="203,81,355,108"/>
+<area shape="rect" id="node6" title=" " alt="" coords="231,5,326,32"/>
+<area shape="rect" id="node7" href="$classQtServiceControllerHandler.html" title=" " alt="" coords="379,81,579,108"/>
+<area shape="rect" id="node8" title=" " alt="" coords="441,5,516,32"/>
+</map>
